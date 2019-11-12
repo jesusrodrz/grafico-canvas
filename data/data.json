@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "Nombre": "Nombre 1",
+      "Autoevaluacion": "1.212",
+      "Requerida": "3.877",
+      "Evaluacion": "3.411"
+    },
+    {
+      "Nombre": "Nombre 2",
+      "Autoevaluacion": "1.706",
+      "Requerida": "2.996",
+      "Evaluacion": "3.459"
+    },
+    {
+      "Nombre": "Nombre 3",
+      "Autoevaluacion": "3.054",
+      "Requerida": "1.762",
+      "Evaluacion": "2.651"
+    },
+    {
+      "Nombre": "Nombre 4",
+      "Autoevaluacion": "1.519",
+      "Requerida": "0.243",
+      "Evaluacion": "1.656"
+    },
+    {
+      "Nombre": "Nombre 5",
+      "Autoevaluacion": "2.347",
+      "Requerida": "2.494",
+      "Evaluacion": "2.346"
+    },
+    {
+      "Nombre": "Nombre 6",
+      "Autoevaluacion": "1.476",
+      "Requerida": "2.993",
+      "Evaluacion": "3.995"
+    },
+    {
+      "Nombre": "Nombre 7",
+      "Autoevaluacion": "1.930",
+      "Requerida": "0.131",
+      "Evaluacion": "2.279"
+    },
+    {
+      "Nombre": "Nombre 8",
+      "Autoevaluacion": "0.026",
+      "Requerida": "2.418",
+      "Evaluacion": "2.404"
+    }
+  ]
+}

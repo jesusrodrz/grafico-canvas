@@ -1,0 +1,74 @@
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+table{
+    border-collapse:collapse;   
+}
+tr{
+    border: black solid 1px;
+}
+.odd {
+    background-color: #c2c2c2;
+}
+td:first-child{
+    padding: 1em;
+    padding-right: 17px;
+    padding-left: 2em;
+}
+td>p{
+    padding-left: 1em;
+}
+td>h3,td>p{
+    margin-top: .2em;
+    margin-bottom: .2em;
+}
+
+.tds{
+    font-family:  Helvetica, sans-serif;
+    width: 20%;
+    border: black solid 1px;
+    height: 120px;
+    background-image: repeating-linear-gradient(
+        to right, 
+        transparent 0, 
+        transparent calc(25% - 1px), 
+        black calc(25% - 1px),
+        black 25% 
+    );
+    position: relative;
+}
+.bar{
+    position: absolute;
+    height: 18px;
+    width: 86%;
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,.8));
+    text-align: right;
+    left: 0px;
+    padding-right: 2px;
+}
+.bar.blue{
+    background-color: blue;
+}
+.bar.red{
+    background-color: red;
+}
+.bar.green{
+    background-color: green;
+}
+.bar.orange{
+    background-color: orange;
+}
+.bar.yellow{
+    background-color: yellow;
+}
+.bar.violet{
+    background-color: rgb(167, 11, 167);
+}
+.letter{
+    position: absolute;
+    left: -16px;
+}
+.number{
+    color: white;
+}

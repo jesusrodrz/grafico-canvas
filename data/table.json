@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "title":"Liderasgo",
+            "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis molestiae nemo quae voluptates quis architecto eligendi dolore similique quo nihil labore quibusdam rerum, unde dolorem error? Doloribus, beatae eos.",
+            "bars":[
+                {
+                    "letter":"A",
+                    "color": "#ff0000",
+                    "number": 4.5
+                },
+                {
+                    "letter":"J",
+                    "color": "#ffff00",
+                    "number": 3.2
+                },
+                {
+                    "letter":"E",
+                    "color": "#ffff00",
+                    "number": 4.1
+                },
+                {
+                    "letter":"P",
+                    "color": "#ffff00",
+                    "number": 2.3
+                },
+                {
+                    "letter":"C",
+                    "color": "#ffff00",
+                    "number": 2.7
+                },
+                {
+                    "letter":"T",
+                    "color": "#ffff00",
+                    "number": 3.8
+                }
+            ]
+        },
+        {
+            "title":"Adaptabilidad",
+            "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis molestiae nemo quae voluptates quis architecto eligendi dolore similique quo nihil labore quibusdam rerum, unde dolorem error? Doloribus, beatae eos.",
+            "bars":[
+                {
+                    "letter":"A",
+                    "color": "#ff0000",
+                    "number": 4.5
+                },
+                {
+                    "letter":"J",
+                    "color": "#ffff00",
+                    "number": 3.2
+                },
+                {
+                    "letter":"E",
+                    "color": "#ffff00",
+                    "number": 4.1
+                },
+                {
+                    "letter":"P",
+                    "color": "#ffff00",
+                    "number": 2.3
+                },
+                {
+                    "letter":"C",
+                    "color": "#ffff00",
+                    "number": 2.7
+                },
+                {
+                    "letter":"T",
+                    "color": "#ffff00",
+                    "number": 3.8
+                }
+            ]
+        },
+        {
+            "title":"Relaciones",
+            "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis molestiae nemo quae voluptates quis architecto eligendi dolore similique quo nihil labore quibusdam rerum, unde dolorem error? Doloribus, beatae eos.",
+            "bars":[
+                {
+                    "letter":"A",
+                    "color": "#ff0000",
+                    "number": 4.5
+                },
+                {
+                    "letter":"J",
+                    "color": "#ffff00",
+                    "number": 3.2
+                },
+                {
+                    "letter":"E",
+                    "color": "#ffff00",
+                    "number": 4.1
+                },
+                {
+                    "letter":"P",
+                    "color": "#ffff00",
+                    "number": 2.3
+                },
+                {
+                    "letter":"C",
+                    "color": "#ffff00",
+                    "number": 2.7
+                },
+                {
+                    "letter":"T",
+                    "color": "#ffff00",
+                    "number": 3.8
+                }
+            ]
+        },
+        {
+            "title":"Produccion",
+            "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis molestiae nemo quae voluptates quis architecto eligendi dolore similique quo nihil labore quibusdam rerum, unde dolorem error? Doloribus, beatae eos.",
+            "bars":[
+                {
+                    "letter":"A",
+                    "color": "#ff0000",
+                    "number": 4.5
+                },
+                {
+                    "letter":"J",
+                    "color": "#ffff00",
+                    "number": 3.2
+                },
+                {
+                    "letter":"E",
+                    "color": "#ffff00",
+                    "number": 4.1
+                },
+                {
+                    "letter":"P",
+                    "color": "#ffff00",
+                    "number": 2.3
+                },
+                {
+                    "letter":"C",
+                    "color": "#ffff00",
+                    "number": 2.7
+                },
+                {
+                    "letter":"T",
+                    "color": "#ffff00",
+                    "number": 3.8
+                }
+            ]
+        }
+    ]
+}
