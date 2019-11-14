@@ -1,36 +1,35 @@
 .container {
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
-    height: 50vw;
-    max-height: 90vh;
-    position: relative
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  height: 50vw;
+  max-height: 90vh;
+  position: relative;
 }
 .canvas-text {
-    position: absolute;
-
+  position: absolute;
 }
-.text-0 {
-    transform: translateY(10px) translateX(-50%);
+/* .text-0 {
+  transform: translateY(10px) translateX(-50%);
 }
 .text-90 {
-    transform: translateY(-50%) translateX(10px);
+  transform: translateY(-50%) translateX(10px);
 }
 .text-180 {
-    transform: translateY(calc(-100% - 10px)) translateX(-50%);
+  transform: translateY(calc(-100% - 10px)) translateX(-50%);
 }
 .text-270 {
-    transform: translateY(-50%) translateX(calc(-100% - 10px));
+  transform: translateY(-50%) translateX(calc(-100% - 10px));
 }
-.text-0_90{
-    transform: translateY(10px) translateX(10px);
+.text-0_90 {
+  transform: translateY(10px) translateX(10px);
 }
-.text-90_180{
-    transform: translateY(-10px) translateX(10px);
+.text-90_180 {
+  transform: translateY(-10px) translateX(10px);
 }
-.text-180_270{
-    transform: translateY(-10px) translateX(calc(-100% - 10px));
+.text-180_270 {
+  transform: translateY(-10px) translateX(calc(-100% - 10px));
 }
-.text-270_360{
-    transform: translateY(10px) translateX(calc(-100% - 10px));
-}
+.text-270_360 {
+  transform: translateY(10px) translateX(calc(-100% - 10px));
+} */
