@@ -107,3 +107,10 @@ td > p {
 .line:nth-of-type(3) {
   width: 75%;
 }
+table {
+  page-break-inside: auto;
+}
+tr {
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
